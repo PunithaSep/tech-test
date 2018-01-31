@@ -12,7 +12,9 @@ We want you to create a REST API for a simple data set that we will provide.
 
 The REST API should allow for create, read, update and delete actions on resources.
 
-The API will be publicly accessible so consider the security implications of this. 
+The API will be publicly accessible so consider the security implications of this.
+
+The sample data can be found here: [sample-data.json](https://github.com/equiniti-cs/tech-test/blob/master/sample-data.json "sample-data.json")
 
 ## How do we want you to do it? ##
 We expect the submission you provide to contain the following:
