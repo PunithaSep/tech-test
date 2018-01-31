@@ -28,7 +28,7 @@ The data can just be persisted to a file on the file system, we don't expect a d
 
 You should follow industry best practices and consider: separation of concerns, security, scalability and performance.
 
-You should choose an appropriate framework and technology for your solution considering the role your are applying for.
+You should choose an appropriate framework and technology for your solution considering the role you are applying for.
 
 Your solution may contain dependencies to publicly available packages (from nuget.org for example).  
 
