@@ -21,19 +21,20 @@ We expect the submission you provide to contain the following:
 
 - a complete solution runnable on Windows;
 - structured, readable, maintainable code;
-- executable unit tests;
 - comments;
 
 The data can just be persisted to a file on the file system, we don't expect a database.
 
-You should follow industry best practices and consider: separation of concerns, security, scalability and performance.
+You should follow industry best practices and consider: separation of concerns, testability, security, scalability and performance.
 
-You should choose an appropriate framework and technology for your solution considering the role you are applying for.
+You should choose an appropriate framework and technology for your solution considering the role your are applying for (e.g. .Net or Java).
 
-Your solution may contain dependencies to publicly available packages (from nuget.org for example).  
+Your solution may contain dependencies to publicly available packages (from nuget.org for example).
+
+We don't expect you to take more than 2 or 3 hours creating your solution, but it is up to you how long you spend.  
 
 ## How do you submit your test? ##
-You can submit your solution via an exported or privately accessible repository (e.g. GitHub or BitBucket). We would like to see your commit history as well as the final submission.
+You can submit your solution via an exported, public accessible or privately shared repository (e.g. GitHub or BitBucket). We would like to see your commit history as well as the final submission.
 
 You will have been supplied with an email address for posting a link to your submission from an Equiniti Credit Services hiring manager.
 
